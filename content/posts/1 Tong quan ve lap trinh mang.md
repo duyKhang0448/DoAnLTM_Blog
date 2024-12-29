@@ -9,7 +9,7 @@ showTableOfContents: false
 ![Alt text](/images/lap-trinh-mang-topcv.jpg)
 # Tổng quan về lập trình mạng – Những kiến thức cơ bản cần nắm rõ
 
-Lập trình mạng là một trong những kiến thức được nhiều bạn quan tâm khi tìm hiểu lĩnh vực lập trình. Hãy cùng TopviecIT tìm hiểu ngay về lập trình mạng là gì và những kiến thức cơ bản về khái niệm này
+Lập trình mạng là một trong những kiến thức được nhiều bạn quan tâm khi tìm hiểu lĩnh vực lập trình. Hãy cùng TopviecIT tìm hiểu ngay về lập trình mạng là gì và những kiến thức cơ bản về khái niệm này.
 
 ## Lập trình mạng là gì?
 
