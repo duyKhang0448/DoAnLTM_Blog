@@ -155,7 +155,7 @@ See this sample `config.toml`, which uses Gokarna's default values, and [example
   accentColor = "#FF4D4D"
 
   # Resource URL for the site avatar (home page and header)
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "/images/khang.jpg"
 
   # Describe the avatar for screen readers
   avatarAltText = "avatar"
@@ -217,7 +217,7 @@ Images are typically placed into the [`assets/`](https://gohugo.io/getting-start
 
 ```toml
 [params]
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "/images/khang.jpg"
 ```
 
 ### Avatar size

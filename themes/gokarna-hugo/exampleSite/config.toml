@@ -11,7 +11,7 @@ title = "Gokarna"
 [params]
   avatarAltText = "avatar"
   avatarSize = "size-m"
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "/images/khang.jpg"
 
   customHeadHTML = """
     <!-- KaTeX -->
